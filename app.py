@@ -181,5 +181,6 @@ def contact():
 
 # Run the Flask app in debug mode for development
 if __name__ == '__main__':
-    with app.app_context():  # Ensure app context is created for database access
-        app.run(debug=True)
+    with app.app_context():  # Ensure app context is created if needed for setup
+        app.run(debug=True, host="0.0.0.0", port=8000)
+
