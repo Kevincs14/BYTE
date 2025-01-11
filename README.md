@@ -10,9 +10,8 @@ As a college student myself, I struggled with meal planning and maintaining a ba
 Motivation
 
 ## Tech Stack
-- Frontend: React.js, CSS3, HTML5
-- Backend: Node.js, Express.js
-- Database: MongoDB
+- Frontend: JS, CSS, HTML
+- Backend:  Python and Flask
 - Authentication: JWT (JSON Web Tokens)
 - Deployment: Currently in progress. The app will be deployed soon for public access.
 
